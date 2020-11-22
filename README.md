@@ -3,6 +3,8 @@ This repository contains the notebooks and datasets for the chain of blogs writt
 
 Blogs are availabe at: [DevelopersPoint Blog Page](https://blog.developerspoint.org/)
 
+![alt text](https://blog.developerspoint.org/assets/img/scikitlearn.png)
+
 **Topics:**
 
 - Introduction
